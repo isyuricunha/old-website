@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Olf Portfolio 👋</h1>
+<h1 align="center">Welcome to Old Portfolio 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/node-12.13.0-blue.svg" />
@@ -11,9 +11,9 @@
   </a>
 </p>
 
-> My odl portfolio profile.
+> My Old portfolio profile.
 
-### 🏠 [Homepage](https://www.portfolio-antigo.garotogordo.codes/)
+### 🏠 [Homepage](http://www.old-website.yuricunha.xyz/)
 
 ## Prerequisites
 
@@ -42,14 +42,14 @@ npm run test
 
 👤 **Yuri Cunha**
 
-* Website: https://www.garotogordo.codes/
+* Website: https://www.yuricunha.xyz/
 * Twitter: [@isyuricunha](https://twitter.com/isyuricunha)
 * Github: [@isyuricunha](https://github.com/isyuricunha)
 * LinkedIn: [@isyuricunha](https://linkedin.com/in/isyuricunha)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/portfolio-antigo/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/isyuricunha/old-website/issues). 
 
 ## Show your support
 
