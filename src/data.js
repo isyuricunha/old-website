@@ -3,7 +3,7 @@ const bannerDescription = "Database Administrator (dbA)"; // Descrição do bann
 const mediumUrl =
   "https://api.allorigins.win/raw?url=https://medium.com/feed/@isYuriCunha"; // URL do feed do Medium
 const mediumFilterKeyword = ""; // Palavra-chave para filtrar o feed do Medium
-const email = "garotogordo@icloud.com"; // E-mail
+const email = "isyuricunha@duck.com"; // E-mail
 const githubUrl = "https://github.com/isYuriCunha"; // URL do GitHub
 const linkedInUrl = "https://www.linkedin.com/in/isYuriCunha/"; // URL do LinkedIn
 const resumePdfTitle = "Yuri-Cunha.pdf"; // Título do PDF do currículo
@@ -14,7 +14,7 @@ const projects = [
     description: "Clone da págine Unes",
     stack: ["HTML", "CSS"],
     imgName: "pc-robot.jpg",
-    siteUrl: "http://unes.garotogordo.codes/",
+    siteUrl: "http://unes.isyuricunha.xyz/",
     codeUrl: "https://github.com/isyuricunha/unes-page",
     altCodeUrl: "",
   },
