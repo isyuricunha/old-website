@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://isyuricunha.xyz/",
   "engines": {
-    "node": "12.13.0",
+    "node": "16.13.0",
     "npm": "6.12.0"
   },
   "dependencies": {
