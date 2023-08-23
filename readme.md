@@ -13,7 +13,7 @@
 
 > My Old portfolio profile.
 
-### 🏠 [Homepage](http://www.old-website.yuricunha.xyz/)
+### 🏠 [Homepage](http://www.old-website.yuricunha.com/)
 
 ## Prerequisites
 
