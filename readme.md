@@ -42,7 +42,7 @@ npm run test
 
 👤 **Yuri Cunha**
 
-* Website: https://www.yuricunha.xyz/
+* Website: https://www.yuricunha.com/
 * Twitter: [@isyuricunha](https://twitter.com/isyuricunha)
 * Github: [@isyuricunha](https://github.com/isyuricunha)
 * LinkedIn: [@isyuricunha](https://linkedin.com/in/isyuricunha)
